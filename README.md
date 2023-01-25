@@ -1,19 +1,19 @@
 # Welcome to Css Effects/Designs
 
-This respository is specially for newcomers who wants to enhance their knowledge and skills by making small/large projects.Only Css/SAAS/LASS Projects is accepted
+This repository is especially for newcomers who want to enhance their knowledge and skills by making small/large projects. Only Css/SAAS/LASS Projects are accepted.
 
 
 ###  How to Start?
-If you have a idea of any web projects you want to build just open an appropriate issue regarding this, we will discuss and assign you that issue. In case you are confused and have queries, just ping [me](https://www.linkedin.com/in/sulagna-dutta-roy-26421b201/), will help you get along and build!
+If you have an idea of any web projects you want to build just open an appropriate issue regarding this, and we will discuss and assign you that issue. In case you are confused and have queries, just ping [me](https://www.linkedin.com/in/sulagna-dutta-roy-26421b201/), will help you get along and build!
 
 
-***If you want to contribute by creating new templates/animatios then check the type of your project and add it to its respective folder.
+***If you want to contribute by creating new templates/animations then check the type of your project and add it to its respective folder.
 <br>
-Ex: If you develope a game the add it to the `Games` folder***
+Ex: If you develop a game then add it to the `Games` folder***
 
 ###  Submit a Pull Request :
 
-Branch naming convention is as following
+Branch naming convention is as follows:
 
 `TYPE-ISSUE_ID-DESCRIPTION`
 
@@ -21,7 +21,7 @@ When `TYPE` can be:
 
 - **feat** - is a new project
 - **doc** - documentation only changes
-- **fix** - a bug fix/improving of any project
+- **fix** - a bug fix/improvement of any project
 
 **All PRs must include a commit message with the changes description!**
 
